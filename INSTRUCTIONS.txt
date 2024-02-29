@@ -1,0 +1,5 @@
+Space to move up
+left shift to move down
+a or left arrow to look left, d or right arrow to look right
+w to move forwards, s to move backwards
+up arrow to look up, down arrow to look down
